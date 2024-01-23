@@ -22,13 +22,18 @@ public class Main {
         System.out.println("char: "+ (char)charint);
 
 
-        //do-while loop
+        //do-while 
         int index = 0;
 
         do{
             System.out.println(index++);
+            System.out.println("idiot");
         }while (index < 0);
         System.out.println("index: " + index);
+
+
+
+
 
     }
 }
